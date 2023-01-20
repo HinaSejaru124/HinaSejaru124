@@ -9,5 +9,5 @@ javascript ![](https://github.com/github/explore/blob/main/topics/javascript/jav
 Jupyter ![](https://github.com/github/explore/blob/main/topics/jupyter-notebook/jupyter-notebook.png)
 C ![](https://github.com/github/explore/blob/main/topics/c/c.png)
 java ![](https://github.com/github/explore/blob/main/topics/java/java.png)
-// README.md
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=HinaSejaru124&theme=DarkContrastshow_icons=true&count_private=true)
